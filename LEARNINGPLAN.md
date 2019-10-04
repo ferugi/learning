@@ -100,7 +100,7 @@ Any and all things .NET
 
 ## Cloud Services
 
-Cloud services and providers. There's undoutably more tools to add here.
+Cloud services and providers. There's undoubtedly more tools to add here.
 
 ### Azure
 
