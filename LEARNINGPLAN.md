@@ -38,6 +38,7 @@ Here's a list of topics I've learned about, and ones I want to learn more about:
 - [ ] Algorithm Design Manual
 - [ ] Refactoring
 - [ ] Programming Pearls
+- [ ] Extreme Programming Explained
 
 To Do:
 
