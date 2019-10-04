@@ -34,6 +34,7 @@ Books with a more mathematical, or software design orientated approach, things t
   - [ ] Structural Patterns
   - [ ] Behavioral Patterns
   - [ ] Conclusion
+- [ ] Pluralsight: [Design Patterns Library](https://app.pluralsight.com/library/courses/patterns-library)
 - [ ] Book: Introduction to Algorithms
 - [ ] Book: Algorithm Design Manual
 - [ ] Book: New Turing Omnibus
@@ -56,6 +57,17 @@ Generally resources on becoming a better team member, software developer, and em
 - [ ] Book: Working Effectively with Legacy Code
 - [ ] Book: Extreme Programming Explained
 - [ ] Book: Pragmatic Programmer (2019)
+- [x] Pluralsight: [Clean Code: Writing Code for Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans)
+- [ ] Pluralsight: [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://app.pluralsight.com/library/courses/modern-software-architecture-domain-models-cqrs-event-sourcing)
+
+### Security
+
+- [x] Pluralsight: [Play by Play: Modern Web Security Patterns](https://app.pluralsight.com/library/courses/play-by-play-modern-web-security-patterns)
+
+### Web Accessibility
+
+- [x] Pluralsight: [Web Accessibility: Getting Started](https://app.pluralsight.com/library/courses/web-accessibility-getting-started)
+- [x] Pluralsight: [Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.1)](https://app.pluralsight.com/library/courses/web-accessibility-meeting-guidelines)
 
 ### Misc
 
@@ -69,6 +81,7 @@ Generally resources on becoming a better team member, software developer, and em
 - [ ] Pact Contract Testing
 - [ ] Actor Pattern
 - [ ] gRPC
+- [ ] Pluralsight: [Introduction to SQL](https://app.pluralsight.com/library/courses/introduction-to-sql)
 
 ## Javascript & Typescript
 
@@ -81,11 +94,17 @@ Javascript and Typescript language related learning
   - [x] Types & Grammar
   - [ ] Async & Performance
   - [ ] ES.Next & Beyond
+- [x] Pluralsight: [RxJS: Getting Started](https://app.pluralsight.com/library/courses/rxjs-getting-started)
+- [x] Pluralsight: [TypeScript In-depth](https://app.pluralsight.com/library/courses/typescript-in-depth)
+- [x] Pluralsight: [Advanced Typescript](https://app.pluralsight.com/library/courses/typescript-advanced)
+- [x] Pluralsight: [Angular Best Practices](https://app.pluralsight.com/library/courses/best-practices-angular)
+- [x] Pluralsight: [NPM Playbook](https://app.pluralsight.com/library/courses/npm-playbook)
 
 ## .NET
 
 Any and all things .NET
 
+- [ ] Pluralsight: [Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis)
 - [ ] .NET Core 3.0
   - [ ] WPF on .NET Core 3.0
 - [ ] Akka.NET Framework
@@ -105,10 +124,13 @@ Cloud services and providers. There's undoubtedly more tools to add here.
 ### Azure
 
 - Azure Service Bus
-  - [x] PluralSight Courses
+  - [x] PluralSight: [Microsoft Azure Service Bus Brokered Messaging In-depth](https://app.pluralsight.com/library/courses/microsoft-azure-service-brokered-messaging)
   - [ ] Try Azure Service Bus Explorer
 - Azure Functions
-- Durable Task Framework
+- Durable Functions
+  - [x] Pluralsight: [Azure Durable Functions Fundamentals](https://app.pluralsight.com/library/courses/azure-durable-functions-fundamentals)
+- [ ] Pluralsight: [Microsoft Azure Developer: Identifying an Appropriate Integration Solution](https://app.pluralsight.com/library/courses/microsoft-azure-appropriate-integration-solution-identifying)
+- [ ] Pluralsight: [Configuring Serverless Computing in Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-serverless-computing-configuring)
 
 ### AWS
 
