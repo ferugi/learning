@@ -48,6 +48,8 @@ Generally resources on becoming a better team member, software developer, and em
 
 - [x] Book: Pragmatic Programmer (1999)
 - [x] Book: Code Complete 2
+- [x] Book: The Design of Everyday Things
+- [x] Book: Don't Make Me Think
 - [ ] Book: Clean Code
 - [ ] Book: The Clean Coder
 - [ ] Book: Clean Architecture
