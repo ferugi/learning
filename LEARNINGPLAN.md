@@ -104,7 +104,7 @@ Javascript and Typescript language related learning
 
 Any and all things .NET
 
-- [ ] Pluralsight: [Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis)
+- [x] Pluralsight: [Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis)
 - [ ] .NET Core 3.0
   - [ ] WPF on .NET Core 3.0
 - [ ] Akka.NET Framework
