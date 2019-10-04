@@ -40,6 +40,7 @@ Books with a more mathematical, or software design orientated approach, things t
 - [ ] Book: New Turing Omnibus
 - [ ] Book: Programming Pearls
 - [ ] Book: How to Solve It
+- [ ] Actor Pattern
 
 ### Methodology and Process
 
@@ -83,6 +84,7 @@ Generally resources on becoming a better team member, software developer, and em
 - [ ] gRPC
 - [ ] Pluralsight: [Introduction to SQL](https://app.pluralsight.com/library/courses/introduction-to-sql)
 - [x] Pluralsight: [Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis)
+- Postcast: [Hanselminutes](https://www.hanselminutes.com/)
 
 ## Javascript & Typescript
 
@@ -116,6 +118,9 @@ Any and all things .NET
 - Package Managers
   - [ ] Chocolate
   - [ ] .NET Global Tools
+- Blog: [Dave Mateer](https://davemateer.com/)
+- Blog: [Steve Gordon](https://www.stevejgordon.co.uk/)
+- Podcast: [.NET Rocks!](https://www.dotnetrocks.com/)
 
 ## Cloud Services
 
