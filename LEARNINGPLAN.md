@@ -65,6 +65,8 @@ Generally resources on becoming a better team member, software developer, and em
 - [ ] Document: [Architectural Styles and the Design of Network-based Software Architectures (REST dissertation)](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - Technical Diagrams
 - Delivering Presentations
+  - Book: [Confessions of a Public Speaker](https://www.amazon.co.uk/Confessions-Public-Speaker-Scott-Berkun/dp/1449301959)
+  - Book: [The Presentation Coach - Bare Knuckle Brilliance For Every Presenter](https://www.amazon.co.uk/Presentation-Coach-Knuckle-Brilliance-Presenter/dp/085708044X)
 
 ### Security
 
