@@ -87,6 +87,10 @@ Generally resources on becoming a better team member, software developer, and em
 - [ ] Pluralsight: [Introduction to SQL](https://app.pluralsight.com/library/courses/introduction-to-sql)
 - [x] Pluralsight: [Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis)
 - Postcast: [Hanselminutes](https://www.hanselminutes.com/)
+- [ ] Book: The Presentation Coach - Bare Knuckle Brilliance For Every Presenter 
+- [ ] Book: Radical Candor: How to Get What You Want by Saying What You Mean
+- [ ] Book: Crucial Conversations Tools for Talking When Stakes Are High, Second Edition
+
 
 ## Javascript & Typescript
 
