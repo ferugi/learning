@@ -62,6 +62,11 @@ Generally resources on becoming a better team member, software developer, and em
 - [ ] Book: Pragmatic Programmer (2019)
 - [x] Pluralsight: [Clean Code: Writing Code for Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans)
 - [ ] Pluralsight: [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://app.pluralsight.com/library/courses/modern-software-architecture-domain-models-cqrs-event-sourcing)
+- [ ] Document: [Architectural Styles and the Design of Network-based Software Architectures (REST dissertation)](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+- Technical Diagrams
+- Delivering Presentations
+  - Book: [Confessions of a Public Speaker](https://www.amazon.co.uk/Confessions-Public-Speaker-Scott-Berkun/dp/1449301959)
+  - Book: [The Presentation Coach - Bare Knuckle Brilliance For Every Presenter](https://www.amazon.co.uk/Presentation-Coach-Knuckle-Brilliance-Presenter/dp/085708044X)
 
 ### Security
 
@@ -87,7 +92,6 @@ Generally resources on becoming a better team member, software developer, and em
 - [ ] Pluralsight: [Introduction to SQL](https://app.pluralsight.com/library/courses/introduction-to-sql)
 - [x] Pluralsight: [Building Scalable APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis)
 - Postcast: [Hanselminutes](https://www.hanselminutes.com/)
-- [ ] Book: The Presentation Coach - Bare Knuckle Brilliance For Every Presenter 
 - [ ] Book: Radical Candor: How to Get What You Want by Saying What You Mean
 - [ ] Book: Crucial Conversations Tools for Talking When Stakes Are High, Second Edition
 
