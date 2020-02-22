@@ -60,6 +60,7 @@ Generally resources on becoming a better team member, software developer, and em
 - [ ] Book: Working Effectively with Legacy Code
 - [ ] Book: Extreme Programming Explained
 - [ ] Book: Pragmatic Programmer (2019)
+- [ ] Book: Test Driven Development: By Example
 - [x] Pluralsight: [Clean Code: Writing Code for Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans)
 - [ ] Pluralsight: [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://app.pluralsight.com/library/courses/modern-software-architecture-domain-models-cqrs-event-sourcing)
 - [ ] Document: [Architectural Styles and the Design of Network-based Software Architectures (REST dissertation)](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
